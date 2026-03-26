@@ -24,3 +24,4 @@ public class Cube extends Object3D {
         return 6 * edge * edge;
     }
 }
+

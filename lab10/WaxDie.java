@@ -27,3 +27,4 @@ public class WaxDie extends Cube implements Comparable<Object3D>, Meltable {
 		return new Sphere(this.getName(), this.getMaterial(), radius);
 	}
 }
+

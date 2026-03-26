@@ -8,3 +8,4 @@ public interface Meltable {
 	// implementing Class is a Cube/Sphere.
 	public Object3D convertToOtherShape();
 }
+

@@ -98,3 +98,4 @@ public abstract class Object3D {
 
 	public abstract double getSurface(); // Calculate and return the surface area of this object
 }
+
